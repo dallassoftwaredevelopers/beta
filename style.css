@@ -104,9 +104,8 @@ body {
     list-style: none;
     font-size: 24px;
     line-height: 40px;
+    padding-top: 20px;
 }
-
-
 /* Skills Learned Area */
 
 .skillslearned,
@@ -160,7 +159,6 @@ body {
         padding-left: 0;
     }
     .usergroups ul li a {
-        border: 1px solid white;
         font-size: 20px;
     }
     .skillslearned h1 {
